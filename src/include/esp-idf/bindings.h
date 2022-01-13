@@ -22,6 +22,8 @@
 #include "esp_adc_cal.h"
 #endif
 
+#include "bootloader_random.h"
+
 #include "esp_event.h"
 
 #include "esp_netif.h"
